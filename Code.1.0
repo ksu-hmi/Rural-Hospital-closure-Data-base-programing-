@@ -1,0 +1,6 @@
+importing the csv file in jupyter notebook
+import pandas as pd
+import pandas as pd
+df = pd.read_csv("Ruhosp.csv")
+df
+Ruhosp.csv is the file to explore
