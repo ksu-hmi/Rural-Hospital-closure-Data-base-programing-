@@ -6,3 +6,5 @@ df
 Ruhosp.csv is the file to explore
 https://pythonfund-fkouako1.notebooks.azure.com/j/notebooks/Rural%20hospitalcode.ipynb
 (See the repository of Bonnie McDaniel at https://github.com/ksu-hmi/Hospital-Dashboard)
+# removing missing data and renaming our initial data
+new_data = df.dropna(how='any')
