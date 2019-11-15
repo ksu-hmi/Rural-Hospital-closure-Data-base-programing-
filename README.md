@@ -7,7 +7,7 @@ Creating a Python Maping for closed rural hospital in Texas
 Importing the Library
 *******************************
 Texas1.csv is the excel file who contains the geodesic data(Lat/long)
-*******************************8
+*******************************
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
